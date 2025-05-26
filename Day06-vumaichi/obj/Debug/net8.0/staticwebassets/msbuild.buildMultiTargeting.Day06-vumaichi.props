@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Day06-vumaichi.props" />
+</Project>

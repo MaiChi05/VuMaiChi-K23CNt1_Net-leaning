@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\Day06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D4B8BC-4A58-4893-85CA-1A837A21475B}|Day06.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\day06\\controllers\\vmchomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D4B8BC-4A58-4893-85CA-1A837A21475B}|Day06.csproj|solutionrelative:controllers\\vmchomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VmcHomeController.cs",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\Day06\\Controllers\\VmcHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VmcHomeController.cs",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\Day06\\Controllers\\VmcHomeController.cs",
+              "RelativeToolTip": "Controllers\\VmcHomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:28:04.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vumaichi-Day06.props" />
+</Project>

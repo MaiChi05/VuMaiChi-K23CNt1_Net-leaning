@@ -1,0 +1,17 @@
+﻿
+﻿
+@{
+    ViewData["Title"] = "Thông tin member";
+    var VmcMember = ViewBag.VmcMember as lesson05-Vumaichi.Models.DataModels.vmcMember;
+
+}
+
+<div class="alert alert-danger">
+    <h1>Thông tin member</h1>
+    <hr />
+    <p>Member Id: @VmcMember.vmcMemberId</p>
+    <p>UserName:@VmcMember.vmcUserName</p>
+    <p>FullName: @VmcMember.vcmFullName</p>
+    <p>Password:  @VmcMember.vmcPassword </p>
+    <p>Email:  @VmcMember.vmcEmail </p>
+</div>
