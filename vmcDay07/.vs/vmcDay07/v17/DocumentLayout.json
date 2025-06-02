@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcday07\\views\\shared\\_vmcnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|solutionrelative:views\\shared\\_vmcnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcday07\\views\\shared\\_vmclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|solutionrelative:views\\shared\\_vmclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcday07\\models\\vmcemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|solutionrelative:models\\vmcemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcday07\\views\\vmchome\\vmcabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|solutionrelative:views\\vmchome\\vmcabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcday07\\controllers\\vmcemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|solutionrelative:controllers\\vmcemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcday07\\controllers\\vmchomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|solutionrelative:controllers\\vmchomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcday07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCE78591-360F-494E-9C8C-9994E2AA41E4}|vmcDay07.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VmcEmployeeController.cs",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Controllers\\VmcEmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VmcEmployeeController.cs",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Controllers\\VmcEmployeeController.cs",
+              "RelativeToolTip": "Controllers\\VmcEmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:50:17.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vmcEmployee.cs",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Models\\vmcEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\vmcEmployee.cs",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Models\\vmcEmployee.cs",
+              "RelativeToolTip": "Models\\vmcEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:48:58.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vmcAbout.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Views\\VmcHome\\vmcAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\VmcHome\\vmcAbout.cshtml",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Views\\VmcHome\\vmcAbout.cshtml",
+              "RelativeToolTip": "Views\\VmcHome\\vmcAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:35:51.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_vmcLayout.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Views\\Shared\\_vmcLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_vmcLayout.cshtml",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Views\\Shared\\_vmcLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_vmcLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:34:10.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_vmcNavbar.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Views\\Shared\\_vmcNavbar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_vmcNavbar.cshtml",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Views\\Shared\\_vmcNavbar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_vmcNavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:33:44.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VmcHomeController.cs",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Controllers\\VmcHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VmcHomeController.cs",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Controllers\\VmcHomeController.cs",
+              "RelativeToolTip": "Controllers\\VmcHomeController.cs",
+              "ViewState": "AgIAAAYAAAAAxDBIuykUwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:31:30.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\vmcDay07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T01:30:07.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
