@@ -1,0 +1,90 @@
+﻿@model IEnumerable<VmcNetcoreMVCLABS.Models.VmcAccount>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_VmcLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcAvatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcBirthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcFacebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcAvatar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcBirthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcGender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcFacebook)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

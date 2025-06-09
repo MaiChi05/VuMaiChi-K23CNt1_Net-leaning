@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcnetcoremvclabs\\controllers\\vmcaccountcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|solutionrelative:controllers\\vmcaccountcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcnetcoremvclabs\\views\\vmcaccountcontrollers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|solutionrelative:views\\vmcaccountcontrollers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcnetcoremvclabs\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcnetcoremvclabs\\models\\vmcaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|solutionrelative:models\\vmcaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcnetcoremvclabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcnetcoremvclabs\\controllers\\vmchomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|solutionrelative:controllers\\vmchomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcnetcoremvclabs\\views\\shared\\_vmclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|solutionrelative:views\\shared\\_vmclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|d:\\netcore\\vumaichi-k23cnt1_net-leaning\\vmcnetcoremvclabs\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF58E01F-48D9-4266-A0B3-D7A7FD97782F}|VmcNetcoreMVCLABS.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Views\\VmcAccountControllers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\VmcAccountControllers\\Index.cshtml",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Views\\VmcAccountControllers\\Index.cshtml",
+              "RelativeToolTip": "Views\\VmcAccountControllers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T03:08:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:07:03.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VmcAccountControllers.cs",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Controllers\\VmcAccountControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\VmcAccountControllers.cs",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Controllers\\VmcAccountControllers.cs*",
+              "RelativeToolTip": "Controllers\\VmcAccountControllers.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:26:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:21:07.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VmcHomeController.cs",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Controllers\\VmcHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VmcHomeController.cs",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Controllers\\VmcHomeController.cs",
+              "RelativeToolTip": "Controllers\\VmcHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:54:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VmcAccount.cs",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Models\\VmcAccount.cs",
+              "RelativeDocumentMoniker": "Models\\VmcAccount.cs",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Models\\VmcAccount.cs",
+              "RelativeToolTip": "Models\\VmcAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:50:18.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_VmcLayout.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Views\\Shared\\_VmcLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_VmcLayout.cshtml",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Views\\Shared\\_VmcLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_VmcLayout.cshtml",
+              "ViewState": "AgIAABMAAAAAAAB4qBrzvxsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:38:56.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NetCore\\VuMaiChi-K23CNt1_Net-leaning\\VmcNetcoreMVCLABS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:38:39.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
