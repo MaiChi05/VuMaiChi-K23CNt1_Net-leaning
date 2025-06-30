@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Vmclesson11.Models.VmcEmployee>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_VmcLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">VmcCreate New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcEmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcEmpLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcEmpStartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VmcEmpStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcEmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcEmpLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcEmpStartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VmcEmpStatus)
+            </td>
+            <td>
+                <a asp-action="VmcEdit" asp-route-id="@item.VmcEmpId">Edit</a> |
+                <a asp-action="VmcDetails" asp-route-id="@item.VmcEmpId">Details</a> |
+                <a asp-action="VmcDelete" asp-route-id="@item.VmcEmpId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,30 @@
+﻿@model VmcLesson09.Modelsss.Category
+
+@{
+    ViewData["Title"] = "Xóa Thông tin";
+    Layout = "~/Views/Shared/_VmcLayout.cshtml";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>Bạn có chắc chắn muốn xóa mục này?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CategoryName)
+        </dd>
+    </dl>
+
+    <!-- FORM POST tới VmcDelete (chạy hàm VmcDeleteConfirmed) -->
+    <form asp-action="VmcDelete" method="post">
+        @* Giá trị ẩn truyền id *@
+        <input type="hidden" asp-for="CategoryId" />
+
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="VmcIndex">Quay lại danh sách</a>
+    </form>
+</div>

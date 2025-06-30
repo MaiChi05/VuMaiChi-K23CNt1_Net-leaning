@@ -1,0 +1,43 @@
+﻿@model Vmclesson11.Models.VmcEmployee
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_VmcLayout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>VmcEmployee</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VmcEmpName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VmcEmpName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VmcEmpLevel)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VmcEmpLevel)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VmcEmpStartDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VmcEmpStartDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VmcEmpStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VmcEmpStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="VmcEdit" asp-route-id="@Model?.VmcEmpId">Edit</a> |
+    <a asp-action="VmcIndex">Back to List</a>
+</div>
